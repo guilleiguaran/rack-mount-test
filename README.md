@@ -1,0 +1,4 @@
+Usage
+======
+
+    bundle exec rackup
